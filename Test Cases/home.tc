@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>aplicand prueba</description>
+   <name>home</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d87ab98b-7383-4052-b73c-dafe00983895</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f601001f-35e4-4251-81ef-244597cf6530</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
